@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marie!
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on cool frontend projects
